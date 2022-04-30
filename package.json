@@ -1,0 +1,22 @@
+{
+  "name": "com.felipemcoliveira.scriptableobject-propertydrawer",
+  "displayName": "ScriptableObject PropertyDrawer",
+  "version": "1.0.0",
+  "author": {
+    "name": "Felipe M C Oliveira",
+    "email": "fmcdeoliveira@gmail.com",
+    "url": "https://github.com/felipemcoliveira"
+  },
+  "unity": "2021.1",
+  "keywords": [
+    "unity",
+    "property drawer",
+    "editor",
+    "extesion",
+    "sub asset",
+    "subasset"
+  ],
+  "description": "Enhance the scriptable object property in editor providing a easy-to-use popup window to create scriptable objects for the property, it also provide support for sub asset creating as well as destroying and renaming which is also through a popup window.",
+  "dependencies": {},
+  "license": "See LICENSE.md file"
+}
